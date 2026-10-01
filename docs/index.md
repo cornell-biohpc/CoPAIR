@@ -2,7 +2,7 @@
 
 **Communities of Practice for AI-enabled Research**
 
-CoPAIR is a BRC-run program exploring how artificial intelligence can help address real research problems in the life sciences. Fellows work together to develop, test, and refine AI-enabled research workflows and turn successful approaches into reusable skills for the broader research community.
+CoPAIR is a program for exploring how artificial intelligence can help address real research problems. A pilot program is being run by the Biotechnology Resource Center (BRC), with an initial focus on research in the life sciences.
 
 ## Focus Areas
 
@@ -13,7 +13,7 @@ CoPAIR is a BRC-run program exploring how artificial intelligence can help addre
 
 ## What We Do
 
-CoPAIR brings together researchers, faculty advisors, and BioHPC staff to explore where AI can accelerate research, where human scientific judgment remains essential, and how useful AI-enabled workflows can be made reproducible and reusable.
+The CoPAIR pilot brings together researchers, faculty advisors, and BioHPC staff to explore where AI can accelerate research, where human scientific judgment remains essential, and how useful AI-enabled workflows can be made reproducible and reusable.
 
 ## CoPAIR Skills
 
