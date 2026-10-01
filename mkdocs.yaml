@@ -1,0 +1,15 @@
+site_name: CoPAIR
+site_description: Communities of Practice for AI-enabled Research
+site_url: https://cornell-biohpc.github.io/CoPAIR/
+
+repo_name: cornell-biohpc/CoPAIR
+repo_url: https://github.com/cornell-biohpc/CoPAIR
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Skills: skills.md
+  - Resources: resources.md
+
+theme:
+  name: mkdocs
