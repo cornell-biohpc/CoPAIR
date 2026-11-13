@@ -12,4 +12,8 @@ nav:
   - Resources: resources.md
 
 theme:
-  name: mkdocs
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
