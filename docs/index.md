@@ -2,7 +2,13 @@
 
 **Communities of Practice for AI-enabled Research**
 
-CoPAIR is a program for exploring how artificial intelligence can help address real research problems. A pilot program is being run by the Biotechnology Resource Center (BRC), with an initial focus on research in the life sciences.
+CoPAIR (Communities of Practice for AI-enabled Research) is a pilot program for exploring how artificial intelligence can help address real research problems.
+
+The pilot is being run by the Biotechnology Resource Center (BRC) with an initial focus on research in the life sciences. It brings together researchers, faculty advisors, and BioHPC staff to develop, test, and evaluate AI-enabled research workflows.
+
+A major goal of the pilot is to understand where AI can meaningfully accelerate research, where human scientific judgment remains essential, and how successful approaches can be made reproducible and reusable.
+
+Participants work collaboratively to identify common research challenges, experiment with AI-enabled solutions, evaluate their usefulness and limitations, and turn promising approaches into reusable skills that can be shared with the broader research community.
 
 ## Focus Areas
 
@@ -10,21 +16,6 @@ CoPAIR is a program for exploring how artificial intelligence can help address r
 - Proteomics and metabolomics
 - Imaging
 - Protein structure and structural biology
-
-## What We Do
-
-The CoPAIR pilot brings together researchers, faculty advisors, and BioHPC staff to explore where AI can accelerate research, where human scientific judgment remains essential, and how useful AI-enabled workflows can be made reproducible and reusable.
-
-## CoPAIR Skills
-
-Reusable skills developed through the program will be maintained in the CoPAIR skills repositories:
-
-- [CoPAIR Skills](https://github.com/Cornell-BioHPC/copair-skills) — reviewed and reusable skills
-- [CoPAIR Skills Incubator](https://github.com/Cornell-BioHPC/copair-skills-incubator) — skills under development and testing
-
-## About BioHPC
-
-BioHPC provides cloud-like computing resources for biologists learning Linux and performing bioinformatics analyses.
 
 ---
 

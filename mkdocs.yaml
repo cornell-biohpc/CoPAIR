@@ -7,9 +7,7 @@ repo_url: https://github.com/cornell-biohpc/CoPAIR
 
 nav:
   - Home: index.md
-  - About: about.md
   - Skills: skills.md
-  - Resources: resources.md
 
 theme:
   name: material
