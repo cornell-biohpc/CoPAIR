@@ -43,6 +43,7 @@
   color: #ffffff;
   background: transparent;
   box-shadow: none;
+  padding-top: 1rem;
 }
 
 .md-sidebar--primary .md-nav__title .md-nav__icon {
