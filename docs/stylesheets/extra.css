@@ -1,0 +1,68 @@
+/* Home page banner image */
+.home-banner {
+  display: block;
+  width: 100%;
+  max-height: 374px;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-bottom: 1.5rem;
+}
+
+/* Skills page section cards */
+.skills-section {
+  border-radius: 16px;
+  padding: 28px 30px;
+  margin: 30px 0;
+}
+
+.skills-curated {
+  background: #e7f1fc;
+  border: 1px solid #bfdcf4;
+}
+
+.skills-curated h2 {
+  color: #13467a;
+}
+
+.skills-incubator {
+  background: #fdf0e2;
+  border: 1px solid #f4d0a3;
+}
+
+.skills-incubator h2 {
+  color: #8a4b14;
+}
+
+/* Primary navigation sidebar */
+.md-sidebar--primary .md-sidebar__scrollwrap {
+  background: linear-gradient(185deg, #0d2a44, #184566);
+  border-radius: 4px;
+}
+
+.md-sidebar--primary .md-nav__title {
+  color: #ffffff;
+  background: transparent;
+  box-shadow: none;
+}
+
+.md-sidebar--primary .md-nav__title .md-nav__icon {
+  color: #ffffff;
+}
+
+.md-sidebar--primary .md-nav__link {
+  color: #c6d8e8;
+}
+
+.md-sidebar--primary .md-nav__link:hover,
+.md-sidebar--primary .md-nav__link:focus {
+  color: #ffffff;
+}
+
+.md-sidebar--primary .md-nav__link--active,
+.md-sidebar--primary .md-nav__link.md-nav__link--active {
+  color: #ffffff;
+  font-weight: 700;
+  border-left: 4px solid #b9252b;
+  padding-left: calc(0.6rem - 4px);
+  background: rgba(255, 255, 255, 0.08);
+}

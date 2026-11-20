@@ -1,3 +1,5 @@
+<img src="images/BRC_CoPAIR_banner.png" alt="BRC CoPAIR banner" class="home-banner">
+
 # CoPAIR
 
 **Communities of Practice for AI-enabled Research**

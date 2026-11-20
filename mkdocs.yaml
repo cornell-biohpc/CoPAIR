@@ -15,3 +15,10 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.top
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html

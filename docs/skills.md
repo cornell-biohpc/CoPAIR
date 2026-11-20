@@ -9,6 +9,8 @@ Skills live in two private GitHub repositories. Skill names and short descriptio
 
 A skill typically starts in the Incubator and is promoted to the curated repository once it has been tested and reviewed.
 
+<div class="skills-section skills-curated" markdown="1">
+
 ## CoPAIR Skills (curated)
 
 Reviewed, documented skills ready for broader reuse. No skills have been promoted here yet.
@@ -23,6 +25,10 @@ Reviewed, documented skills ready for broader reuse. No skills have been promote
     - _No skills yet_
 - **structural-biology** — protein structure, structural biology, AlphaFold-related workflows, and related analyses
     - _No skills yet_
+
+</div>
+
+<div class="skills-section skills-incubator" markdown="1">
 
 ## CoPAIR Skills Incubator (experimental)
 
@@ -55,6 +61,8 @@ Skills under active development and testing. Presence here does not imply scient
     - [ppi-screen-status](https://github.com/Cornell-BioHPC/copair-skills-incubator/tree/main/skills/structural-biology/ppi-screen-status) — Read-only status reporting for PPI screens, summarizing completion, ETA, logs, failures, and Slurm queue state across BioHPC runs.
     - [ppi-screens](https://github.com/Cornell-BioHPC/copair-skills-incubator/tree/main/skills/structural-biology/ppi-screens) — Routes a BioHPC protein-protein interaction structure-prediction screen from design through folding, analysis, and results interpretation across multiple engines.
     - [protsviz](https://github.com/Cornell-BioHPC/copair-skills-incubator/tree/main/skills/structural-biology/protsviz) — ProtsViz sets up UCSF ChimeraX and a small Python environment, then turns a folder of protein predictions into a live, shareable gallery. (Last modified: 2026-11-19 17:00 EST)
+
+</div>
 
 ---
 
